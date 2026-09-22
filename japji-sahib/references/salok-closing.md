@@ -12,7 +12,50 @@
 
 ## Scholars available for this section
 
-Only Sant Teja Singh's translation is on file for this section (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+Sant Teja Singh's translation and Prof. Sahib Singh's Darpan teeka are on file for this section (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+
+### Prof. Sahib Singh — Siri Guru Granth Sahib *Darpan* (Punjabi teeka)
+
+॥ ਸਲੋਕ ॥
+
+ ਪਵਣੁ ਗੁਰੂ, ਪਾਣੀ ਪਿਤਾ, ਮਾਤਾ ਧਰਤਿ ਮਹਤੁ ॥ ਦਿਵਸ
+ ਰਾਤਿ ਦੁਇ ਦਾਈ ਦਾਇਆ, ਖੇਲੈ ਸਗਲ ਜਗਤੁ ॥
+
+ਪਦ ਅਰਥ — ਪਵਣੁ-ਹਵਾ, ਸੁਆਸ, ਪ੍ਰਾਣ। ਮਹਤੁ-ਵੱਡੀ । ਦਿਵਸੁ-ਦਿਨ। ਦੁਇ-ਦੋਵੇਂ। ਦਿਵਸੁ
+ਦਾਇਆ-ਦਿਨ ਖਿਡਾਵਾ ਹੈ। ਰਾਤਿ ਦਾਈ-ਰਾਤ ਖਿਡਾਵੀ ਹੈ। ਸਗਲ-ਸਾਰਾ।
+ਅਰਥ :- ਪ੍ਰਾਣ (ਸਰੀਰਾਂ ਲਈ ਇਉਂ ਹਨ ਜਿਵੇਂ) ਗੁਰੂ (ਜੀਵਾਂ ਦੇ ਆਤਮਾ ਲਈ) ਹੈ, ਪਾਣੀ (ਸਭ ਜੀਵਾਂ
+ਦਾ) ਪਿਉ ਹੈ ਅਤੇ ਧਰਤੀ (ਸਭ ਦੀ) ਵੱਡੀ ਮਾਂ ਹੈ। ਦਿਨ ਅਤੇ ਰਾਤ ਦੋਵੇਂ ਖਿਡਾਵਾ ਤੇ ਖਿਡਾਵੀ ਹਨ, ਸਾਰਾ
+ਸੰਸਾਰ ਖੇਡ ਰਿਹਾ ਹੈ, (ਭਾਵ, ਸੰਸਾਰ ਦੇ ਸਾਰੇ ਜੀਵ ਰਾਤ ਨੂੰ ਸੌਣ ਵਿਚ ਅਤੇ ਦਿਨੇ ਕਾਰ-ਵਿਹਾਰ ਵਿਚ ਪਰਚੇ
+ਪਏ ਹਨ)।
+
+ ਚੰਗਿਆਈਆ ਬੁਰਿਆਈਆ, ਵਾਚੈ ਧਰਮੁ ਹਦੂਰਿ ॥
+ ਕਰਮੀ ਆਪੋ ਆਪਣੀ ਕੇ ਨੇੜੈ ਕੇ ਦੂਰਿ ॥
+
+ਪਦ ਅਰਥ:- ਵਾਚੈ-ਪਰਖਦਾ ਹੈ, (ਲਿਖੇ ਹੋਏ) ਪੜ੍ਹਦਾ ਹੈ। ਹਦੂਰਿ-ਅਕਾਲ ਪੁਰਖ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ, ਅਕਾਲ
+ਪੁਰਖ ਦੇ ਦਰ ’ਤੇ। ਕਰਮੀ-ਕਰਮਾਂ ਅਨੁਸਾਰ। ਕੇ-ਕਈ ਜੀਵ। ਨੇੜੈ-ਅਕਾਲ ਪੁਰਖ ਦੇ ਨਜ਼ਦੀਕ।
+
+ ਅਰਥ :- ਧਰਮਰਾਜ ਅਕਾਲ ਪੁਰਖ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ (ਜੀਵਾਂ ਦੇ ਕੀਤੇ ਹੋਏ) ਚੰਗੇ ਤੇ ਮੰਦੇ ਕੰਮ ਵਿਚਾਰਦਾ
+ਹੈ। ਆਪੋ ਆਪਣੇ (ਇਹਨਾਂ ਕੀਤੇ ਹੋਏ) ਕਰਮਾਂ ਦੇ ਅਨੁਸਾਰ ਕਈ ਜੀਵ ਅਕਾਲ ਪੁਰਖ ਦੇ ਨੇੜੇ ਹੋ ਜਾਂਦੇ ਹਨ
+ਅਤੇ ਅਕਾਲ ਪੁਰਖ ਤੋਂ ਦੂਰਿ ਹੋ ਜਾਂਦੇ ਹਨ।
+
+ ਜਿਨੀ ਨਾਮੁ ਧਿਆਇਆ, ਗਏ ਮਸਕਤਿ ਘਾਲਿ ॥
+ ਨਾਨਕ, ਤੇ ਮੁਖ ਉਜਲੇ, ਕੇਤੀ ਛੁਟੀ ਨਾਲ ॥੧॥
+ (ਪੰਨਾ ੯)
+
+ਪਦ ਅਰਥ:- ਜਿਨੀ-ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ। ਤੇ-ਉਹ ਮਨੁੱਖ। ਧਿਆਇਆ-ਸਿਮਰਿਆ ਹੈ। ਮਸਕਤਿ-ਮਸ਼ੱਕਤਿ,
+ਮਿਹਨਤ, ਘਾਲ-ਕਮਾਈ। ਘਾਲਿ-ਘਾਲ ਕੇ, ਸਫਲੀ ਕਰ ਕੇ। ਮੁਖ ਉਜਲੇ-ਉੱਜਲ ਮੁਖ ਵਾਲੇ। ਕੇਤੀ-ਕਈ
+ਜੀਵ। ਛੁਟੀ-ਮੁਕਤ ਹੋ ਗਈ, ਮਾਇਆ ਦੇ ਬੰਦਨਾਂ ਤੋਂ ਰਹਿਤ ਹੋ ਗਈ। ਨਾਲਿ-ਉਹਨਾਂ (ਗੁਰਮੁਖਾਂ) ਦੀ
+ਸੰਗਤ ਵਿਚ।
+ਅਰਥ :- ਹੇ ਨਾਨਕ ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਅਕਾਲ ਪੁਰਖ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਹੈ, ਉਹ ਆਪਣੀ ਮਿਹਨਤ
+ਸਫਲੀ ਕਰ ਗਏ ਹਨ, (ਅਕਾਲ ਪੁਰਖ ਦੇ ਦਰ ’ਤੇ) ਉਹ ਉੱਜਲ ਮੁਖ ਵਾਲੇ ਹਨ ਅਤੇ (ਹੋਰ ਭੀ) ਕਈ ਜੀਵ
+ਉਹਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਰਹਿ ਕੇ) (“ਕੂੜ ਦੀ ਪਾਲਿ” ਢਾਹ ਕੇ ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ) ਆਜ਼ਾਦ ਹੋ ਗਏ
+ਹਨ।੧।
+ਭਾਵ :- ਇਹ ਜਗਤ ਇਕ ਰੰਗ-ਭੂਮੀ ਹੈ, ਜਿਸ ਵਿਚ ਜੀਵ ਖਿਲਾੜੀ ਆਪੋ ਆਪਣੀ ਖੇਡ ਖੇਡ ਰਹੇ ਹਨ।
+ਹਰੇਕ ਜੀਵ ਦੀ ਪੜਤਾਲ ਬੜੇ ਗਹੁ ਨਾਲ ਹੋ ਰਹੀ ਹੈ। ਜੋ ਨਿਰੀ ਮਾਇਆ ਦੀ ਖੇਡ ਹੀ ਖੇਡ ਗਏ, ਉਹ ਪ੍ਰਭੂ
+ਤੋਂ ਵਿੱਥ ਪਾਈ ਗਏ। ਪਰ ਜਿਨ੍ਹਾਂ ਨੇ ਸਿਮਰਨ ਦੀ ਖੇਡ ਖੇਡੀ, ਉਹ ਆਪਣੀ ਮਿਹਨਤ ਸਫਲੀ ਕਰ ਗਏ ਤੇ
+ਹੋਰ ਕਈ ਜੀਵਾਂ ਨੂੰ ਇਸ ਸੁਚੱਜੇ ਰਾਹ ’ਤੇ ਪਾਂਦੇ ਹੋਏ ਆਪ ਭੀ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਸੁਰਖ਼ਰੂ ਹੋਏ।
+
+*(Source: Sahib Singh (Prof.), *Siri Guru Granth Sahib Darpan* — Japji Sahib section, typed edition by Avtar Singh Dhami. Gurmukhi text converted from the source PDF's legacy GurbaniAkhar font encoding to Unicode using `anvaad-js`, the same tool already used for `japji-gurmukhi-full.md`; spot-checked against the rendered PDF for accuracy.)*
 
 ### Sant Teja Singh (English translation & commentary)
 

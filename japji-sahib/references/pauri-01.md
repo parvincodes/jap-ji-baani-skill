@@ -11,7 +11,7 @@
 
 ## Scholars available for this pauri
 
-Sant Teja Singh's translation and Jarnail Singh's essay are on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, or Prof. Sahib Singh commentary is available here yet — don't imply otherwise).
+Sant Teja Singh's translation, Jarnail Singh's essay, and Prof. Sahib Singh's Darpan teeka are on file for this pauri (no Dr. Sant Singh Khalsa or Bhai Manmohan Singh commentary is available here yet — don't imply otherwise).
 
 ### Jarnail Singh — "Understanding Jap" (Sikhspectrum.com) — commentary on Pauri 1
 
@@ -25,6 +25,80 @@ This essay reads "Aad sach jugaad sach. Hai bhee sach Nanak hosee bhee sach" (th
 - Closes by connecting this pauri's demand — that the mind "die" to its own dictates — to Vaisakhi 1699, arguing (against scholars who treat the founding of the Khalsa as an unrelated event) that Guru Gobind Singh's Khalsa initiation institutionalized exactly this demand from Guru Nanak's first stanza.
 
 *(This is a condensed, attributed summary of a long essay for use as a reference — not the full original text. Full essay, covering Pauri 1 (the first stanza of Jap, on Truth vs. falsehood): Jarnail Singh, Sikhspectrum.com, sourced from the user's Dropbox. Note: this essay is internally titled "Understanding Jap - 2," a title it happens to share with a separate essay that actually covers Pauri 2 (on Hukam) — an apparent labeling slip in the source material itself. The two are distinguished here by which pauri each essay's content actually discusses, not by title.)*
+
+### Prof. Sahib Singh — Siri Guru Granth Sahib *Darpan* (Punjabi teeka)
+
+ਸੋਚੈ ਸੋਚਿ ਨ ਹੋਵਈ ਜੇ ਸੋਚੀ ਲਖ ਵਾਰ ॥
+ ਚੁਪੈ ਚੁਪ ਨ ਹੋਵਈ ਜੇ ਲਾਇ ਰਹਾ ਲਿਵਤਾਰ ॥
+
+ਪਦ ਅਰਥ — ਸੋਚੈ-ਸੁਚਿ ਰੱਖਣ ਨਾਲ, ਪਵਿੱਤਰਤਾ ਕਾਇਮ ਰੱਖਣ ਨਾਲ । ਸੋਚਿ-ਸੁਚਿ, ਪਵਿੱਤਰਤਾ, ਸੁੱਚ
+। ਨ ਹੋਵਈ-ਨਹੀਂ ਹੋ ਸਕਦੀ । ਸੋਚੀ-ਮੈਂ ਸੁੱਚ ਰੱਖਾਂ । ਚੁਪੈ-ਚੁੱਪ ਕਰ ਰਹਿਣ ਨਾਲ । ਚੁਪ-ਸ਼ਾਂਤੀ, ਮਨ
+ਦੀ ਚੁੱਪ, ਮਨ ਦਾ ਟਿਕਾਉ । ਲਾਇ ਰਹਾ-ਮੈਂ ਲਾਈ ਰੱਖਾਂ । ਲਿਵ ਤਾਰ-ਲਿਵ ਦੀ ਤਾਰ, ਲਿਵ ਦੀ ਡੋਰ,
+ਇਕ-ਤਾਰ ਸਮਾਧੀ ।
+ਨੋਟ :- ਇਸ ਪਉੜੀ ਦੀ ਪੰਜਵੀਂ ਤੁਕ ਪੜ੍ਹਿਆਂ ਇਹ ਪਤਾ ਲੱਗਦਾ ਹੈ ਕਿ ਇਸ ਪਉੜੀ ਵਿਚ ਗੁਰੂ ਨਾਨਕ
+ਸਾਹਿਬ ਮਨ ਨੂੰ ‘ਸਚਿਆਰਾ’ ਕਰਨ ਦਾ ਤਰੀਕਾ ਦੱਸ ਰਹੇ ਹਨ। ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਉਹਨਾਂ ਸਾਧਨਾਂ ਦਾ
+ਜ਼ਿਕਰ ਕਰਦੇ ਹਨ ਜੋ ਹੋਰ ਲੋਕ ਵਰਤ ਰਹੇ ਹਨ । ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ, ਜੰਗਲਾਂ ਵਿਚ ਜਾ ਕੇ ਸਮਾਧੀ
+ਲਾਉਣੀ, ਮਨ ਨੂੰ ਮਾਇਆ ਵਿਚ ਪਹਿਲਾਂ ਰਜਾ ਲੈਣਾ, ਸ਼ਾਸਤ੍ਰਾਂ ਦੀ ਫਿਲਾਸਫ਼ੀ-ਇਹ ਆਮ ਪਰਚਲਤ ਤਰੀਕੇ
+
+ ਸਨ । ਪਰ ਸਤਿਗੁਰੂ ਜੀ ਇਹਨਾਂ ਤੋਂ ਵੱਖਰਾ ਉਹ ਸਾਧਨ ਦੱਸਦੇ ਹਨ, ਜਿਸ ਨੂੰ ਗੁਰਸਿੱਖੀ ਦਾ ਮੁੱਢਲਾ
+ਨਿਯਮ ਸਮਝ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ, ਭਾਵ, ਅਕਾਲ ਪੁਰਖ ਦੀ ਰਜ਼ਾ ਵਿਚ ਤੁਰਨਾ ।
+ਪਹਿਲੀਆਂ ਚੌਹਾਂ ਤੁਕਾਂ ਦੇ ਠੀਕ ਅਰਥ ਸਮਝਣ ਲਈ ਪੰਜਵੀਂ ਤੁਕ ਵਲ ਖ਼ਾਸ ਧਿਆਨ ਦੇਣਾ ਜ਼ਰੂਰੀ ਹੈ।
+‘ਕਿਵ ਸਚਿਆਰਾ ਹੋਈਐ ਕਿਵ ਕੂੜੈ ਤੁਟੈ ਪਾਲਿ।’ ਇਸ ਤੁਕ ਨੂੰ ਪਹਿਲੀ ਹਰੇਕ ਤੁਕ ਦੇ ਨਾਲ ਪੜ੍ਹਿਆਂ
+ਸਪੱਸ਼ਟ ਹੋ ਜਾਂਦਾ ਹੈ ਕਿ ਪਹਿਲੀ ਹਰੇਕ ਤੁਕ ਵਿਚ ‘ਮਨ’ ਦਾ ਹੀ ਜ਼ਿਕਰ ਹੈ। ਪਹਿਲੀ ਤੁਕ ਵਿਚ ‘ਮਨ ਦੀ
+ਸੁੱਚ’, ਦੂਜੀ ਵਿਚ ‘ਮਨ ਦੀ ਚੁੱਪ’, ਤੀਜੀ ਵਿਚ 'ਮਨ ਦੀ ਭੁੱਖ' ਅਤੇ ਚੌਥੀ ਵਿਚ 'ਮਨ ਦੀ ਸਿਆਣਪ' ਦਾ
+ਹਾਲ ਦੱਸਿਆ ਹੈ ।
+(ਪ੍ਰ:) ਲਫ਼ਜ਼ 'ਸੋਚਿ' ਦੇ ਅਰਥ 'ਸੁੱਚ' ਕਿਉਂ ਕੀਤੇ ਗਏ ਹਨ?
+(ਉ:) ਮਨ ਦੀਆਂ ਸੋਚਾਂ ਤੇ ਸਿਆਣਪਾਂ ਨੂੰ ਤਾਂ ਚੌਥੀ ਤੁਕ ਵਿਚ ਵਰਣਨ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ, ਇਸ ਵਾਸਤੇ
+ਪਹਿਲੀ ਤੁਕ ਵਿਚ ਕੁਝ ਹੋਰ ਖ਼ਿਆਲ ਹੈ, ਜੋ ਹੇਠਲੀਆਂ ਤੁਕਾਂ ਗਹੁ ਨਾਲ ਪੜ੍ਹਿਆਂ ਸਪੱਸ਼ਟ ਹੋ ਜਾਂਦਾ ਹੈ :-
+(੧) ਕਹੁ ਨਾਨਕ ਸਚੁ ਧਿਆਈਐ ॥
+ ਸੁਚਿ ਹੋਵੈ ਤਾਂ ਸਚੁ ਪਾਈਐ ॥ (ਆਸਾ ਦੀ ਵਾਰ
+
+(੨) ਸੋਚ ਕਰੈ ਦਿਨਸੁ ਅਰੁ ਰਾਤਿ ॥
+ ਮਨ ਕੀ ਮੈਲ ਨ ਤਨ ਤੇ ਜਾਤਿ ॥ (ਸੁਖਮਨੀ
+
+(੩) ਨ ਸੁਚਿ ਸੰਜਮੁ ਤੁਲਸੀ ਮਾਲਾ ॥
+ ਗੋਪੀ ਕਾਨੁ ਨ ਗਊ ਗੋਆਲਾ ॥
+ ਤੰਤੁ ਮੰਤੁ ਪਾਖੰਡੁ ਨ ਕੋਈ,
+ ਨਾ ਕੋ ਵੰਸੁ ਵਜਾਇਦਾ ॥ ੭ ॥ (ਮਾਰੂ ਮਹਲਾ ੧
+
+'ਸੋਚ' ਦਾ ਅਰਥ ਹੈ 'ਇਸ਼ਨਾਨ', ਅਤੇ 'ਸੁਚਿ' ਦਾ ਅਰਥ ਹੈ 'ਪਵਿੱਤਰਤਾ' । ਇਹਨਾਂ ਹੀ ਦੋ ਸ਼ਬਦਾਂ ਦੀ
+ਮਿਲਾਵਟ ਦਾ ਸ਼ਬਦ ਹੈ 'ਸੋਚਿ', ਜਿਸ ਦਾ ਅਰਥ ਹੈ ਸੁੱਚ, ਪਵਿੱਤਰਤਾ, ਇਸ਼ਨਾਨ । ਸ਼ਬਦ 'ਸੁਚਿ' ਇਸਤ੍ਰੀ
+ਲਿੰਗ ਹੈ । ਸੰਸਕ੍ਰਿਤ ਵਿਚ ਭੀ ਇਹ ਇਸੇ ਹੀ ਸ਼ਕਲ ਵਿਚ ਹੈ । ਜਿਵੇਂ ਸ਼ਬਦ 'ਮਨ' ਤੋਂ 'ਮਨਿ' ਬਣਿਆ ਹੈ,
+ਜਿਸ ਦਾ ਅਰਥ ਹੈ 'ਮਨ ਵਿਚ', ਇਸ ਤਰ੍ਹਾਂ 'ਸੋਚ' ਤੋਂ 'ਸੋਚਿ' ਨਹੀਂ ਬਣ ਸਕਦਾ, ਕਿਉਂਕਿ ਲਫ਼ਜ਼ 'ਮਨੁ'
+ਪੁਲਿੰਗ ਹੈ ਤੇ 'ਸੋਚ' (ਜਿਸ ਦਾ ਅਰਥ 'ਵਿਚਾਰ' ਹੈ) ਇਸਤ੍ਰੀ ਲਿੰਗ ਹੈ। ਸੋ, ਸ਼ਬਦ 'ਸੋਚਿ' ਅਧਿਕਰਨ ਕਾਰਕ
+ਦੀ ( ਿ) ਤੋਂ ਬਿਨਾ ਹੀ ਅਸਲ ਸਰੂਪ ਵਾਲਾ ਸੰਸਕ੍ਰਿਤ ਦਾ ਹੀ ਲਫ਼ਜ਼ 'ਸੁਚਿ' ਹੈ, ਜਿਸ ਦਾ ਅਰਥ ਹੈ
+ਪਵਿੱਤਰਤਾ ।
+ਅਰਥ :- ਜੇ ਮੈਂ ਲੱਖ ਵਾਰੀ (ਭੀ) (ਇਸ਼ਨਾਨ ਆਦਿਕ ਨਾਲ ਸਰੀਰ ਦੀ) ਸੁੱਚ ਰੱਖਾਂ, (ਤਾਂ ਭੀ ਇਸ ਤਰ੍ਹਾਂ)
+ਸੁੱਚ ਰੱਖਣ ਨਾਲ (ਮਨ ਦੀ) ਸੁੱਚ ਨਹੀਂ ਰਹਿ ਸਕਦੀ । ਜੇ ਮੈਂ (ਸਰੀਰ ਦੀ) ਇਕ-ਤਾਰ ਸਮਾਧੀ ਲਾਈ
+ਰੱਖਾਂ; (ਤਾਂ ਭੀ ਇਸ ਤਰ੍ਹਾਂ) ਚੁੱਪ ਕਰ ਰਹਿਣ ਨਾਲ ਮਨ ਦੀ ਸ਼ਾਂਤੀ ਨਹੀਂ ਹੋ ਸਕਦੀ ।
+
+ ਭੁਖਿਆ ਭੁਖ ਨਾ ਉਤਰੀ, ਜੇ ਬੰਨਾ ਪੁਰੀਆ ਭਾਰ ॥
+ ਸਹਸ ਸਿਆਣਪਾ ਲਖ ਹੋਹਿ ਤ ਇਕ ਨ ਚਲੈ ਨਾਲਿ ॥
+
+ਪਦ ਅਰਥ — ਭੁਖ-ਤ੍ਰਿਸ਼ਨਾ, ਲਾਲਚ। ਭੁਖਿਆ-ਤ੍ਰਿਸ਼ਨਾ ਦੇ ਅਧੀਨ ਰਿਹਾਂ। ਨ ਉਤਰੀ-ਦੂਰ ਨਹੀਂ ਹੋ
+ਸਕਦੀ। ਬੰਨਾ-ਬੰਨ੍ਹ ਲਵਾਂ, ਸਾਂਭ ਲਵਾਂ। ਪੁਰੀ-ਲੋਕ, ਭਵਣ। ਪੁਰੀਆ ਭਾਰ-ਸਾਰੇ ਲੋਕਾਂ ਦੇ ਭਾਰ। ਭਾਰ-
+ਪਦਾਰਥਾਂ ਦੇ ਸਮੂਹ। ਸਹਸ-ਹਜ਼ਾਰਾਂ। ਸਿਆਣਪਾ-ਚਤੁਰਾਈਆਂ। ਹੋਹਿ-ਹੋਵਣ। ਇਕ-ਇਕ ਭੀ ਚਤੁਰਾਈ
+।
+ਅਰਥ :- ਜੇ ਮੈਂ ਸਾਰੇ ਭਵਣਾਂ ਦੇ ਪਦਾਰਥਾਂ ਦੇ ਢੇਰ (ਭੀ) ਸਾਂਭ ਲਵਾਂ, ਤਾਂ ਭੀ ਤ੍ਰਿਸ਼ਨਾ ਦੇ ਅਧੀਨ ਰਿਹਾਂ
+ਤ੍ਰਿਸ਼ਨਾ ਦੂਰ ਨਹੀਂ ਹੋ ਸਕਦੀ। ਜੇ (ਮੇਰੇ ਵਿਚ) ਹਜ਼ਾਰਾਂ ਤੇ ਲੱਖਾਂ ਚਤੁਰਾਈਆਂ ਹੋਵਣ, (ਤਾਂ ਭੀ ਉਹਨਾਂ
+ਵਿਚੋਂ) ਇਕ ਭੀ ਚਤੁਰਾਈ ਸਾਥ ਨਹੀਂ ਦੇਂਦੀ।
+
+ ਕਿਵ ਸਚਿਆਰਾ ਹੋਈਐ, ਕਿਵ ਕੂੜੈ ਤੁਟੈ ਪਾਲਿ ॥
+ ਹੁਕਮਿ ਰਜਾਈ ਚਲਣਾ, ਨਾਨਕ ਲਿਖਿਆ ਨਾਲਿ ॥ ੧ ॥
+
+ਪਦ ਅਰਥ — ਕਿਵ-ਕਿਸ ਤਰ੍ਹਾਂ। ਹੋਈਐ-ਹੋ ਸਕੀਦਾ ਹੈ। ਕੂੜੈ ਪਾਲਿ-ਕੂੜ ਦੀ ਪਾਲਿ, ਕੂੜ ਦੀ ਕੰਧ,
+ਕੂੜ ਦਾ ਪਰਦਾ। ਸਚਿਆਰਾ-(ਸਚ ਆਲਯ) ਸੱਚ ਦਾ ਘਰ, ਸੱਚ ਦੇ ਪਰਕਾਸ਼ ਹੋਣ ਲਈ ਯੋਗ। ਹੁਕਮਿ-
+ਹੁਕਮ ਵਿਚ। ਰਜਾਈ-ਰਜ਼ਾ ਵਾਲਾ, ਅਕਾਲ ਪੁਰਖ। ਨਾਲਿ-ਜੀਵ ਦੇ ਨਾਲ ਹੀ, ਧੁਰ ਤੋਂ ਹੀ ਜਦ ਤੋਂ ਜਗਤ
+ਬਣਿਆ ਹੈ । ੧ ।
+ਅਰਥ :- (ਤਾਂ ਫਿਰ) ਅਕਾਲ ਪੁਰਖ ਦਾ ਪਰਕਾਸ਼ ਹੋਣ ਲਈ ਯੋਗ ਕਿਵੇਂ ਬਣ ਸਕੀਦਾ ਹੈ (ਅਤੇ ਸਾਡੇ ਅੰਦਰ
+ਦਾ) ਕੂੜ ਦਾ ਪਰਦਾ ਕਿਵੇਂ ਟੁੱਟ ਸਕਦਾ ਹੈ ? ਰਜ਼ਾ ਦੇ ਮਾਲਕ ਅਕਾਲ ਪੁਰਖ ਦੇ ਹੁਕਮ ਵਿਚ ਤੁਰਨਾ-(ਇਹੀ
+ਇਕ ਵਿਧੀ ਹੈ)। ਹੇ ਨਾਨਕ ! (ਇਹ ਵਿਧੀ) ਧੁਰ ਤੋਂ ਹੀ ਜਦ ਤੋਂ ਜਗਤ ਬਣਿਆ ਹੈ, ਲਿਖੀ ਚਲੀ ਆ ਰਹੀ
+ਹੈ । ੧ ।
+ਭਾਵ :- ਪ੍ਰਭੂ ਨਾਲੋਂ ਜੀਵ ਦੀ ਵਿੱਥ ਮਿਟਾਣ ਦਾ ਇਕੋ ਹੀ ਤਰੀਕਾ ਹੈ ਕਿ ਜੀਵ ਉਸ ਦੀ ਰਜ਼ਾ ਵਿਚ ਤੁਰੇ।
+ਇਹ ਅਸੂਲ ਧੁਰ ਤੋਂ ਹੀ ਰੱਬ ਵਲੋਂ ਜੀਵ ਲਈ ਜਰੂਰੀ ਹੈ। ਪਿਤਾ ਦੇ ਕਹੇ ਵਿਚ ਪੁੱਤਰ ਤੁਰਦਾ ਰਹੇ ਤਾਂ
+ਪਿਆਰ, ਨਾ ਤੁਰੇ ਤਾਂ ਵਿੱਥ ਪੈਂਦੀ ਜਾਂਦੀ ਹੈ।
+
+*(Source: Sahib Singh (Prof.), *Siri Guru Granth Sahib Darpan* — Japji Sahib section, typed edition by Avtar Singh Dhami. Gurmukhi text converted from the source PDF's legacy GurbaniAkhar font encoding to Unicode using `anvaad-js`, the same tool already used for `japji-gurmukhi-full.md`; spot-checked against the rendered PDF for accuracy.)*
 
 ### Sant Teja Singh (English translation & commentary)
 

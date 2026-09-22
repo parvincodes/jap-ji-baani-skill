@@ -11,7 +11,33 @@
 
 ## Scholars available for this pauri
 
-Only Sant Teja Singh's translation is on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+Sant Teja Singh's translation and Prof. Sahib Singh's Darpan teeka are on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+
+### Prof. Sahib Singh — Siri Guru Granth Sahib *Darpan* (Punjabi teeka)
+
+ਮੰਨੈ, ਸੁਰਤਿ ਹੋਵੈ ਮਨਿ ਬੁਧਿ ॥
+ ਮੰਨੈ, ਸਗਲ ਭਵਣ ਕੀ ਸੁਧਿ ॥
+ ਮੰਨੈ, ਮੁਹਿ ਚੋਟਾ ਨਾ ਖਾਇ ॥
+ ਮੰਨੈ, ਜਮ ਕੈ ਸਾਥਿ ਨ ਜਾਇ ॥
+ ਐਸਾ ਨਾਮੁ ਨਿਰੰਜਨੁ ਹੋਇ ॥
+ ਜੇ ਕੋ ਮਨਿ ਜਾਣੈ ਮਨਿ ਕੋਇ ॥੧੩॥
+
+ ਪਦ ਅਰਥ — ਮੰਨੈ-ਮੰਨਣ ਕਰਕੇ, ਜੇ ਮੰਨ ਲਈਏ, ਜੇ ਮਨ ਪਤੀਜ ਜਾਏ, ਜੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਲਗਨ
+ਲੱਗ ਜਾਏ। ਸੁਰਤਿ ਹੋਵੈ-(ਉੱਚੀ) ਸੁਰਤ ਹੋ ਜਾਂਦੀ ਹੈ। ਮਨਿ-ਮਨ ਵਿਚ। ਬੁਧਿ-ਜਾਗ੍ਰਤ। ਸੁਧਿ-ਖ਼ਬਰ,
+ਸੋਝੀ। ਮੁਹਿ-ਮੂੰਹ ਉੱਤੇ। ਚੋਟਾ-ਸੱਟਾਂ। ਜਮ ਕੈ ਸਾਥਿ-ਜਮਾਂ ਦੇ ਨਾਲ ।੧੩।
+ਅਰਥ :- ਜੇ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਲਗਨ ਲੱਗ ਜਾਏ, ਤਾਂ ਉਸ ਦੀ ਸੁਰਤਿ ਉੱਚੀ ਹੋ ਜਾਂਦੀ
+ਹੈ, ਉਸ ਦੇ ਮਨ ਵਿਚ ਜਾਗ੍ਰਤ ਆ ਜਾਂਦੀ ਹੈ, (ਭਾਵ, ਮਾਇਆ ਵਿਚ ਸੁੱਤਾ ਮਨ ਜਾਗ ਪੈਂਦਾ ਹੈ) ਸਾਰੇ ਭਵਨਾਂ
+ਦੀ ਉਸ ਨੂੰ ਸੋਝੀ ਹੋ ਜਾਂਦੀ ਹੈ (ਕਿ ਹਰ ਥਾਂ ਪ੍ਰਭੂ ਵਿਆਪਕ ਹੈ) ਉਹ ਮਨੁੱਖ (ਸੰਸਾਰ ਦੇ ਵਿਕਾਰਾਂ ਦੀਆਂ)
+ਸੱਟਾਂ ਮੂੰਹ ਉੱਤੇ ਨਹੀਂ ਖਾਦਾ (ਭਾਵ, ਸੰਸਾਰਕ ਵਿਕਾਰ ਉਸ ਉੱਤੇ ਦਬਾ ਨਹੀਂ ਪਾ ਸਕਦੇ), ਅਤੇ ਜਮਾਂ ਨਾਲ
+ਉਸ ਨੂੰ ਵਾਹ ਨਹੀਂ ਪੈਂਦਾ (ਭਾਵ, ਉਹ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚੋਂ ਬਚ ਜਾਂਦਾ ਹੈ) । ਅਕਾਲ ਪੁਰਖ ਦਾ
+ਨਾਮ, ਜੋ ਮਾਇਆ ਦੇ ਪਰਭਾਵ ਤੋਂ ਪਰੇ ਹੈ, ਇੱਡਾ (ਉੱਚਾ) ਹੈ (ਕਿ ਇਸ ਵਿਚ ਜੁੜਨ ਵਾਲਾ ਭੀ ਉੱਚੀ
+ਆਤਮਕ ਅਵਸਥਾ ਵਾਲਾ ਹੋ ਜਾਂਦਾ ਹੈ, ਪਰ ਇਹ ਗੱਲ ਤਾਂ ਹੀ ਸਮਝ ਵਿਚ ਆਉਂਦੀ ਹੈ), ਜੇ ਕੋਈ ਮਨੁੱਖ
+ਆਪਣੇ ਮਨ ਵਿਚ ਹਰਿ-ਨਾਮ ਦੀ ਲਗਨ ਪੈਦਾ ਕਰ ਲਏ । ੧੩ ।
+ਭਾਵ- ਪ੍ਰਭੂ-ਚਰਨਾਂ ਦੀ ਪ੍ਰੀਤ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਚਾਨਣ ਕਰ ਦੇਂਦੀ ਹੈ, ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਉਸ ਨੂੰ
+ਪਰਮਾਤਮਾ ਹੀ ਦਿੱਸਦਾ ਹੈ। ਉਸ ਨੂੰ ਵਿਕਾਰਾਂ ਦੀਆਂ ਚੋਟਾਂ ਨਹੀਂ ਵੱਜਦੀਆਂ ਤੇ ਨਾ ਹੀ ਉਸ ਨੂੰ ਮੌਤ ਡਰਾ
+ਸਕਦੀ ਹੈ । ੧੩ ।
+
+*(Source: Sahib Singh (Prof.), *Siri Guru Granth Sahib Darpan* — Japji Sahib section, typed edition by Avtar Singh Dhami. Gurmukhi text converted from the source PDF's legacy GurbaniAkhar font encoding to Unicode using `anvaad-js`, the same tool already used for `japji-gurmukhi-full.md`; spot-checked against the rendered PDF for accuracy.)*
 
 ### Sant Teja Singh (English translation & commentary)
 

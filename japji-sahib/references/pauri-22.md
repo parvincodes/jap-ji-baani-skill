@@ -10,7 +10,46 @@
 
 ## Scholars available for this pauri
 
-Only Sant Teja Singh's translation is on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+Sant Teja Singh's translation and Prof. Sahib Singh's Darpan teeka are on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+
+### Prof. Sahib Singh — Siri Guru Granth Sahib *Darpan* (Punjabi teeka)
+
+ਪਾਤਾਲਾ ਪਾਤਾਲ ਲਖ, ਆਗਾਸਾ ਅਗਾਸ ॥
+ ਓੜਕ ਓੜਕ ਭਾਲਿ ਥਕੇ ਵੇਦ ਕਹਨਿ ਇਕ ਵਾਤ ॥
+
+ਪਦ ਅਰਥ — ਪਾਤਾਲਾ ਪਾਤਾਲ-ਪਾਤਾਲਾਂ ਦੇ ਹੇਠ ਹੋਰ ਪਾਤਾਲ ਹਨ। ਆਗਾਸਾ ਆਗਾਸ-ਆਕਾਸ਼ਾਂ ਦੇ ਉੱਤੇ
+ਹੋਰ ਆਕਾਸ਼ ਹਨ। ਓੜਕ-ਅਖ਼ੀਰ, ਅੰਤ, ਅਖ਼ੀਰਲੇ ਬੰਨੇ। ਭਾਲਿ ਥਕੇ-ਭਾਲ ਭਾਲ ਕੇ ਥੱਕ ਗਏ ਹਨ।
+ਕਹਨਿ-ਆਖਦੇ ਹਨ। ਇਕ ਵਾਤ-ਇਕ ਗੱਲ, ਇਕ-ਜ਼ਬਾਨ ਹੋ ਕੇ।
+ਅਰਥ :- (ਸਾਰੇ) ਵੇਦ ਇੱਕ-ਜ਼ਬਾਨ ਹੋ ਕੇ ਆਖਦੇ ਹਨ, “ਪਾਤਾਲਾਂ ਦੇ ਹੇਠ ਹੋਰ ਲੱਖਾਂ ਪਾਤਾਲ ਹਨ ਅਤੇ
+ਆਕਾਸ਼ਾਂ ਦੇ ਉੱਤੇ ਹੋਰ ਲੱਖਾਂ ਆਕਾਸ਼ ਹਨ, (ਬੇਅੰਤ ਰਿਸ਼ੀ ਮੁਨੀ ਇਹਨਾਂ ਦੇ) ਅਖ਼ੀਰਲੇ ਬੰਨਿਆਂ ਦੀ ਭਾਲ
+ਕਰਕੇ ਥੱਕ ਗਏ ਹਨ, (ਪਰ ਲੱਭ ਨਹੀਂ ਸਕੇ)”।
+
+ ਸਹਸ ਅਠਾਰਹ ਕਹਨਿ ਕਤੇਬਾ, ਅਸੁਲੂ ਇਕ ਧਾਤੁ ॥
+ ਲੇਖਾ ਹੋਇ ਤ ਲਿਖੀਐ ਲੇਖੈ ਹੋਇ ਵਿਣਾਸੁ ॥
+
+ਪਦ ਅਰਥ — ਸਹਸ ਅਠਾਰਹ-ਅਠਾਰਾਂ ਹਜ਼ਾਰ (ਆਲਮ)। ਕਹਨਿ ਕਤੇਬਾ-ਕਤੇਬਾਂ ਆਖਦੀਆਂ ਹਨ।
+ਕਤੇਬਾ-ਈਸਾਈ ਮਤ ਤੇ ਇਸਲਾਮ ਆਦਿਕ ਦੀਆਂ ਚਾਰ ਕਿਤਾਬਾਂ : ਕੁਰਾਨ, ਅੰਜੀਲ, ਤੌਰੇਤ ਤੇ ਜ਼ੰਬੂਰ।
+ਅਸੁਲੂ-ਮੁੱਢ। ਨੋਟ-ਇਹ ਅਰਬੀ ਬੋਲੀ ਦਾ ਲਫ਼ਜ਼ ਹੈ। ਅੱਖਰ ‘ਸ’ ਦਾ ਹੇਠਲਾ ( ੁ ) ਅਰਬੀ ਦਾ ਅੱਖ਼ਰ
+‘ਸੁਆਦ’ ਦੱਸਣ ਵਾਸਤੇ ਹੈ। ਇਕ ਧਾਤੁ-ਇੱਕ ਅਕਾਲ ਪੁਰਖ, ਇਕ ਪੈਦਾ ਕਰਨ ਵਾਲਾ। ਲੇਖਾ ਹੋਇ-ਜੇ
+ਲੇਖਾ ਹੋ ਸਕੇ। ਲਿਖੀਐ-ਲਿਖ ਸਕੀਦਾ ਹੈ। ਲੇਖੈ ਵਿਣਾਸੁ-ਲੇਖੇ ਦਾ ਖ਼ਾਤਮਾ, ਲੇਖੇ ਦਾ ਅੰਤ।
+ਅਰਥ:- (ਮੁਸਲਮਾਨ ਤੇ ਈਸਾਈ ਆਦਿਕ ਦੀਆਂ ਚਾਰੇ) ਕਤੇਬਾਂ ਆਖਦੀਆਂ ਹਨ, “ਕੁੱਲ ਅਠਾਰਹ ਹਜ਼ਾਰ
+ਆਲਮ ਹਨ, ਜਿਨ੍ਹਾਂ ਦਾ ਮੁੱਢ ਇਕ ਅਕਾਲ ਪੁਰਖ ਹੈ”। (ਪਰ ਸੱਚੀ ਗੱਲ ਤਾਂ ਇਹ ਹੈ ਕਿ ਸ਼ਬਦ) ‘ਹਜ਼ਾਰਾਂ’
+ਤੇ ‘ਲੱਖਾਂ’ ਭੀ ਕੁਦਰਤ ਦੀ ਗਿਣਤੀ ਵਿਚ ਵਰਤੇ ਨਹੀਂ ਜਾ ਸਕਦੇ, ਅਕਾਲ ਪੁਰਖ ਦੀ ਕੁਦਰਤ ਦਾ) ਲੇਖਾ
+ਤਦੋਂ ਹੀ ਲਿੱਖ ਸਕੀਦਾ ਹੈ, ਜੇ ਲੇਖਾ ਹੋ ਹੀ ਸਕੇ, (ਇਹ ਲੇਖਾ ਤਾਂ ਹੋ ਹੀ ਨਹੀਂ ਸਕਦਾ, ਲੇਖਾ ਕਰਦਿਆਂ
+ਕਰਦਿਆਂ) ਲੇਖੇ ਦਾ ਹੀ ਖ਼ਾਤਮਾ ਹੋ ਜਾਂਦਾ ਹੈ (ਗਿਣਤੀ ਦੇ ਹਿੰਦਸੇ ਹੀ ਮੁੱਕ ਜਾਂਦੇ ਹਨ)।
+
+ ਨਾਨਕ, ਵਡਾ ਆਖੀਐ, ਆਪੇ ਜਾਣੈ ਆਪੁ ॥੨੨॥
+
+ਪਦ ਅਰਥ — ਆਖੀਐ-ਆਖੀਦਾ ਹੈ (ਜਿਸ ਅਕਾਲ ਪੁਰਖ ਨੂੰ)। ਆਪੇ-ਉਹ ਅਕਾਲ ਪੁਰਖ ਆਪ ਹੀ ।
+ਜਾਣੈ-ਜਾਣਦਾ ਹੈ। ਆਪੁ-ਆਪਣੇ ਆਪ ਨੂੰ ।
+
+ ਅਰਥ :- ਹੇ ਨਾਨਕ ! ਜਿਸ ਅਕਾਲ ਪੁਰਖ ਨੂੰ (ਸਾਰੇ ਜਗਤ ਵਿਚ) ਵੱਡਾ ਆਖਿਆ ਜਾ ਰਿਹਾ ਹੈ, ਉਹ
+ਆਪ ਹੀ ਆਪਣੇ ਆਪ ਨੂੰ ਜਾਣਦਾ ਹੈ (ਉਹ ਆਪਣੀ ਵਡਿਆਈ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ।੨੨।
+ਭਾਵ :- ਪ੍ਰਭੂ ਦੀ ਕੁਦਰਤ ਦਾ ਬਿਆਨ ਕਰਨ ਲਗਿਆਂ ‘ਹਜ਼ਾਰਾਂ’ ਜਾਂ ‘ਲੱਖਾਂ’ ਦੇ ਹਿੰਦਸੇ ਵੀ ਵਰਤੇ ਨਹੀਂ
+ਜਾ ਸਕਦੇ। ਇਤਨੀ ਬੇਅੰਤ ਕੁਦਰਤ ਹੈ ਕਿ ਇਸ ਦਾ ਲੇਖਾ ਕਰਨ ਲਗਿਆਂ ਗਿਣਤੀ ਦੇ ਹਿੰਦਸੇ ਹੀ ਮੁੱਕ ਜਾਂਦੇ
+ਹਨ ।੨੨।
+
+*(Source: Sahib Singh (Prof.), *Siri Guru Granth Sahib Darpan* — Japji Sahib section, typed edition by Avtar Singh Dhami. Gurmukhi text converted from the source PDF's legacy GurbaniAkhar font encoding to Unicode using `anvaad-js`, the same tool already used for `japji-gurmukhi-full.md`; spot-checked against the rendered PDF for accuracy.)*
 
 ### Sant Teja Singh (English translation & commentary)
 

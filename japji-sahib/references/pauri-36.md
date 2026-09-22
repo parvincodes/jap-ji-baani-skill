@@ -13,7 +13,53 @@
 
 ## Scholars available for this pauri
 
-Only Sant Teja Singh's translation is on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+Sant Teja Singh's translation and Prof. Sahib Singh's Darpan teeka are on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+
+### Prof. Sahib Singh — Siri Guru Granth Sahib *Darpan* (Punjabi teeka)
+
+ਗਿਆਨ ਖੰਡ ਮਹਿ, ਗਿਆਨੁ ਪਰਚੰਡੁ ॥
+ ਤਿਥੈ, ਨਾਦ ਬਿਨੋਦ ਕੋਡ ਅਨੰਦੁ ॥
+
+ਪਦ ਅਰਥ:- ਮਹਿ-ਵਿਚ। ਪਰਚੰਡ-ਤੇਜ਼, ਪ੍ਰਬਲ, ਬਲਵਾਨ। ਤਿਥੈ-ਉਸ ਗਿਆਨ ਖੰਡ ਵਿਚ। ਨਾਦ-
+ਰਾਗ। ਬਿਨੋਦ-ਤਮਾਸ਼ੇ। ਕੋਡ-ਕੌਤਕ। ਅਨੰਦੁ-ਸੁਆਦ।
+ਅਰਥ:- ਗਿਆਨ ਖੰਡ ਵਿਚ (ਭਾਵ, ਮਨੁੱਖ ਦੀ ਗਿਆਨ ਅਵਸਥਾ ਵਿਚ) ਗਿਆਨ ਹੀ ਬਲਵਾਨ ਹੁੰਦਾ ਹੈ।
+ਇਸ ਅਵਸਥਾ ਵਿਚ (ਮਾਨੋ) ਸਭ ਰਾਗਾਂ, ਤਮਾਸ਼ਿਆਂ ਤੇ ਕੌਤਕਾਂ ਦਾ ਸੁਆਦ ਆ ਜਾਂਦਾ ਹੈ।
+
+ ਸਰਮ ਖੰਡ ਕੀ ਬਾਣੀ ਰੂਪੁ ॥
+ ਤਿਥੈ ਘਾੜਤਿ ਘੜੀਐ, ਬਹੁਤੁ ਅਨੂਪੁ ॥
+
+ਪਦ ਅਰਥ:- ਸਰਮ-ੳੱੁਦਮ, ਮਿਹਨਤ। ਸਰਮ ਖੰਡ ਕੀ-ਉੱਦਮ ਅਵਸਥਾ ਦੀ । ਬਾਣੀ-ਬਨਾਵਟ। ਰੂਪ-
+ਸੁੰਦਰਤਾ। ਤਿਥੈ-ਇਸ ਮਿਹਨਤ ਵਾਲੀ ਅਵਸਥਾ ਵਿਚ। ਘਾੜਤਿ ਘੜੀਐ-ਘਾੜਤ ਵਿਚ ਘੜਿਆ ਜਾਂਦਾ ਹੈ।
+ਬਹੁਤੁ ਅਨੂਪੁ-(ਮਨ) ਬਹੁਤ ਸੋਹਣਾ।
+ਅਰਥ:- ੳੱੁਦਮ ਅਵਸਥਾ ਦੀ ਬਨਾਵਟ ਸੁੰਦਰਤਾ ਹੈ (ਭਾਵ, ਇਸ ਅਵਸਥਾ ਵਿਚ ਆ ਕੇ ਮਨ ਦਿਨੋ ਦਿਨ
+ਸੋਹਣਾ ਬਣਨਾ ਸ਼ੁਰੂ ਹੋ ਜਾਂਦਾ ਹੈ)। ਇਸ ਅਵਸਥਾ ਵਿਚ (ਨਵੀਂ) ਘਾੜਤ ਦੇ ਕਾਰਨ ਮਨ ਬਹੁਤ ਸੋਹਣਾ
+ਘੜਿਆ ਜਾਂਦਾ ਹੈ।
+
+ ਤਾ ਕੀਆ ਗਲਾ, ਕਥੀਆ ਨ ਜਾਹਿ ॥
+ ਜੇ ਕੋ ਕਹੈ, ਪਿਛੈ ਪਛੁਤਾਇ ॥
+
+ਪਦ ਅਰਥ:- ਤਾ ਕੀਆ-ਉਸ ਅਵਸਥਾ ਦੀਆਂ। ਕਥੀਆ ਨ ਜਾਹਿ-ਕਹੀਂਆਂ ਨਹੀਂ ਜਾ ਸਕਦੀਆਂ। ਕੋ-
+ਕੋਈ ਮਨੁੱਖ। ਕਹੈ-ਆਖੈ ਬਿਆਨ ਕਰੇ। ਪਿਛੈ-ਦੱਸਣ ਤੋਂ ਪਿੱਛੋਂ ਪਛੁਤਾਇ-ਪਛੁਤਾਉਂਦਾ ਹੈ (ਕਿਉਂਕਿ ਉਹ
+ਬਿਆਨ ਕਰਨ ਤੋਂ ਅਸਮਰਥ ਰਹਿੰਦਾ ਹੈ)।
+ਅਰਥ:- ਉਸ ਅਵਸਥਾ ਦੀਆਂ ਗੱਲਾਂ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕਦੀਆਂ। ਜੇ ਕੋਈ ਮਨੁੱਖ ਬਿਆਨ
+ਕਰਦਾ ਹੈ, ਤਾਂ ਪਿੱਛੋਂ ਪਛੁਤਾਉਂਦਾ ਹੈ (ਕਿਉਂਕਿ ਉਹ ਬਿਆਨ ਕਰਨ ਦੇ ਅਸਮਰਥ ਰਹਿੰਦਾ ਹੈ)।
+
+ ਤਿਥੈ ਘੜੀਐ, ਸੁਰਤਿ ਮਤਿ ਮਨਿ ਬੁਧਿ ॥
+ ਤਿਥੈ ਘੜੀਐ, ਸੁਰਾ ਸਿਧਾ ਕੀ ਸੁਧਿ ॥੩੬॥
+
+ਪਦ ਅਰਥ:- ਤਿਥੈ-ਉਸ ਦਰਮ ਖੰਡ ਵਿਚ। ਘੜੀਐ-ਘੜੀ ਜਾਂਦੀ ਹੈ। ਮਨਿ ਬੁਧਿ-ਮਨ ਵਿਚ ਜਾਗ੍ਰਤ।
+ਸੁਰਾ ਕੀ ਸੁਧਿ-ਦੇਵਤਿਆਂ ਦੀ ਸੂਝ। ਸਿਧਾ ਕੀ ਸੁਧਿ-ਸਿੱਧਾਂ ਵਾਲੀ ਅਕਲ।
+ਅਰਥ:- ਉਸ ਮਿਹਨਤ ਵਾਲੀ ਅਵਸਥਾ ਵਿਚ ਮਨੁੱਖ ਦੀ ਸੁਰਤਿ ਤੇ ਮਤ ਘੜੀ ਜਾਂਦੀ ਹੈ, (ਭਾਵ, ਸੁਰਤ ਤੇ
+ਮਤ ਉੱਚੀ ਹੋ ਜਾਂਦੀ ਹੈ) ਅਤੇ ਮਨ ਵਿਚ ਜਾਗ੍ਰਤ ਪੈਦਾ ਹੋ ਜਾਂਦੀ ਹੈ। ਸਰਮ ਖੰਡ ਵਿਚ ਦੇਵਤਿਆਂ ਤੇ ਸਿੱਧਾਂ
+ਵਾਲੀ ਅਕਲ (ਮਨੁੱਖ ਦੇ ਅੰਦਰ) ਬਣ ਜਾਂਦੀ ਹੈ ।੩੬।
+ਭਾਵ:- ਗਿਆਨ-ਅਵਸਥਾ ਦੀ ਬਰਕਤਿ ਨਾਲ ਜਿਉਂ ਜਿਉਂ ਸਾਰਾ ਜਗਤ ਇਕ ਸਾਂਝਾ ਟੱਬਰ ਦਿੱਸਦਾ ਹੈ,
+ਜੀਵ ਖ਼ਲਕਤਿ ਦੀ ਸੇਵਾ ਦੀ ਮਿਹਨਤ (= ‘ਸਰਮ’ ਸਿਰ ’ਤੇ ਚੁੱਕਦਾ ਹੈ, ਮਨ ਦੀ ਪਹਿਲੀ ਤੰਗ-ਦਿਲੀ ਹਟ
+ਕੇ ਵਿਸ਼ਾਲਤਾ ਤੇ ਉਦਾਰਤਾ ਦੀ ਘਾੜਤ ਵਿਚ ਮਨ ਨਵੇਂ ਸਿਰੇ ਸੋਹਣਾ ਘੜਿਆ ਜਾਂਦਾ ਹੈ, ਮਨ ਵਿਚ ਇਕ
+ਨਵੀਂ ਜਾਗ੍ਰਤ ਆਉਂਦੀ ਹੈ, ਸੁਰਤਿ ਉੱਚੀ ਹੋਣ ਲੱਗ ਪੈਂਦੀ ਹੈ।੩੬।
+
+ ਕਰਮ ਖੰਡ ਕੀ ਬਾਣੀ ਜੋਰੁ ॥ ਤਿਥੈ, ਹੋਰੁ ਨ ਕੋਈ ਹੋਰੁ ॥
+
+*(Source: Sahib Singh (Prof.), *Siri Guru Granth Sahib Darpan* — Japji Sahib section, typed edition by Avtar Singh Dhami. Gurmukhi text converted from the source PDF's legacy GurbaniAkhar font encoding to Unicode using `anvaad-js`, the same tool already used for `japji-gurmukhi-full.md`; spot-checked against the rendered PDF for accuracy.)*
 
 ### Sant Teja Singh (English translation & commentary)
 
