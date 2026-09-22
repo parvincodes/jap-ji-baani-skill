@@ -17,7 +17,57 @@
 
 ## Scholars available for this pauri
 
-Only Sant Teja Singh's translation is on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+Sant Teja Singh's translation and Prof. Sahib Singh's Darpan teeka are on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+
+### Prof. Sahib Singh — Siri Guru Granth Sahib *Darpan* (Punjabi teeka)
+
+ਅਸੰਖ ਜਪ, ਅਸੰਖ ਭਾਉ ॥
+ ਅਸੰਖ ਪੂਜਾ, ਅਸੰਖ ਤਪ ਤਾਉ ॥
+
+ਪਦ ਅਰਥ — ਅਸੰਖ-ਅਨਗਿਣਤ, ਬੇਅੰਤ (ਜੀਵ)। ਭਾਉ-ਪਿਆਰ। ਤਪ-ਤਾਉ-ਤਪਾਂ ਦਾ ਤਪਣਾ।
+ਅਰਥ:- (ਅਕਾਲ ਪੁਰਖ ਦੀ ਰਚਨਾ ਵਿਚ) ਅਨਗਿਣਤ ਜੀਵ ਜਪ ਕਰਦੇ ਹਨ, ਬੇਅੰਤ ਜੀਵ (ਹੋਰਨਾਂ ਨਾਲ)
+ਪਿਆਰ (ਦਾ ਵਰਤਾਉ) ਕਰ ਰਹੇ ਹਨ। ਕਈ ਜੀਵ ਪੂਜਾ ਕਰ ਰਹੇ ਹਨ। ਅਤੇ ਅਨਗਿਣਤ ਹੀ ਜੀਵ ਤਪ
+ਸਾਧ ਕਰ ਰਹੇ ਹਨ।
+
+ ਅਸੰਖ ਗਰੰਥ ਮੁਖਿ ਵੇਦ ਪਾਠ ॥
+ ਅਸੰਖ ਜੋਗ ਮਨਿ ਰਹਹਿ ਉਦਾਸ ॥
+
+ਪਦ ਅਰਥ:- ਮੁਖਿ-ਮੂੰਹ ਨਾਲ। ਗਰੰਥ ਵੇਦ ਪਾਠ-ਵੇਦਾਂ ਅਤੇ ਹੋਰ ਧਾਰਮਿਕ ਪੁਸਤਕਾਂ ਦੇ ਪਾਠ। ਜੋਗ-ਜੋਗ
+ਸਾਧਨ ਕਰਨ ਵਾਲੇ। ਮਨਿ-ਮਨ ਵਿਚ। ਉਦਾਸ ਰਹਹਿ-ਉਪਰਾਮ ਰਹਿੰਦੇ ਹਨ।
+ਅਰਥ :- ਬੇਅੰਤ ਜੀਵ ਵੇਦਾਂ ਅਤੇ ਹੋਰ ਧਾਰਮਿਕ ਪੁਸਤਕਾਂ ਦੇ ਪਾਠ ਮੂੰਹ ਨਾਲ ਕਰ ਰਹੇ ਹਨ। ਜੋਗ ਦੇ
+ਸਾਧਨ ਕਰਨ ਵਾਲੇ ਬੇਅੰਤ ਮਨੁੱਖ ਆਪਣੇ ਮਨ ਵਿਚ (ਮਾਇਆ ਵਲੋ) ਉਪਰਾਮ ਰਹਿੰਦੇ ਹਨ।
+
+ ਅਸੰਖ ਭਗਤ, ਗੁਣ ਗਿਆਨ ਵੀਚਾਰ ॥
+ ਅਸੰਖ ਸਤੀ, ਅਸੰਖ ਦਾਤਾਰ ॥
+
+ਪਦ ਅਰਥ — ਗੁਣ ਵੀਚਾਰੁ-ਅਕਾਲ ਪੁਰਖ ਦੇ ਗੁਣਾਂ ਦਾ ਖ਼ਿਆਲ। ਗਿਆਨ ਵੀਚਾਰੁ-(ਅਕਾਲ ਪੁਰਖ ਦੇ)
+ਗਿਆਨ ਦਾ ਵਿਚਾਰ। ਸਤੀ-ਸਤ ਧਰਮ ਵਾਲੇ ਮਨੁੱਖ। ਦਾਤਾਰ-ਦਾਤਾਂ ਦੇਣ ਵਾਲੇ, ਬਖ਼ਸ਼ਸ ਕਰਨ ਵਾਲੇ।
+ਅਰਥ :- (ਅਕਾਲ ਪੁਰਖ ਦੀ ਕੁਦਰਤਿ ਵਿਚ) ਅਣਗਿਣਤ ਭਗਤ ਹਨ, ਜੋ ਅਕਾਲ ਪੁਰਖ ਦੇ ਗੁਣਾਂ ਅਤੇ
+ਗਿਆਨ ਦੀ ਵਿਚਾਰ ਕਰ ਰਹੇ ਹਨ, ਅਨੇਕਾਂ ਹੀ ਦਾਨੀ ਤੇ ਦਾਤੇ ਹਨ।
+
+ ਅਸੰਖ ਸੂਰ ਮੁਹ ਭਖਸਾਰ ॥
+ ਅਸੰਖ ਮੋਨਿ, ਲਿਵ ਲਾਇ ਤਾਰ ॥
+
+ਪਦ ਅਰਥ — ਸੂਰ-ਸੂਰਮੇ, ਜੋਧੇ। ਮੁਹ-ਮੂੰਹਾਂ ਉੱਤੇ। ਭਖਸਾਰ-ਸਾਰ ਭਖਣ ਵਾਲੇ, ਲੋਹਾ ਖਾਣ ਵਾਲੇ,
+ਸ਼ਾਸਤ੍ਰਾਂ ਦੇ ਵਾਰ ਸਹਿਣ ਵਾਲੇ। ਮੋਨਿ-ਚੁੱਪ ਰਹਿਣ ਵਾਲੇ। ਲਿਵ ਲਾਇ ਤਾਰ-ਲਿਵ ਦੀ ਤਾਰ ਲਾ ਕੇ, ਇਕ-
+ਰਸ ਲਿਵ ਲਾ ਕੇ, ਇਕ-ਰਸ ਬ੍ਰਿਤੀ ਜੋੜ ਕੇ।
+ਅਰਥ :- (ਅਕਾਲ ਪੁਰਖ ਦੀ ਰਚਨਾ ਵਿਚ) ਬੇਅੰਤ ਸੂਰਮੇ ਹਨ ਜੋ ਆਪਣੇ ਮੂੰਹਾਂ ਉੱਤੇ (ਭਾਵ ਸਨਮੁਖ ਹੋ ਕੇ)
+ਸ਼ਾਸਤ੍ਰਾਂ ਦੇ ਵਾਰ ਸਹਿੰਦੇ ਹਨ, ਅਨੇਕਾਂ ਮੋਨੀ ਹਨ, ਜੋ ਇਕ-ਰਸ ਬ੍ਰਿਤੀ ਜੋੜ ਕੇ ਬੈਠ ਰਹੇ ਹਨ।
+
+ ਕੁਦਰਤਿ ਕਵਣ, ਕਹਾ ਵੀਚਾਰੁ ॥
+ ਵਾਰਿਆ ਨ ਜਾਵਾ ਏਕ ਵਾਰ ॥
+ ਜੋ ਤੁਧੁ ਭਾਵੈ, ਸਾਈ ਭਲੀ ਕਾਰ ॥
+ ਤੂ ਸਦਾ ਸਲਾਮਤਿ, ਨਿਰੰਕਾਰ ॥੧੭॥
+
+ਅਰਥ :- ਮੇਰੀ ਕੀਹ ਤਾਕਤ ਹੈ ਕਿ ਕਰਤਾਰ ਦੀ ਕੁਦਰਤਿ ਦੀ ਵਿਚਾਰ ਕਰ ਸਕਾਂ? (ਹੇ ਅਕਾਲ ਪੁਰਖ!)
+ਮੈਂ ਤਾਂ ਤੇਰੇ ਉੱਤੋਂ ਇਕ ਵਾਰੀ ਭੀ ਸਦਕੇ ਹੋਣ ਜੋਗਾ ਨਹੀਂ ਹਾਂ (ਭਾਵ, ਮੇਰੀ ਹਸਤੀ ਬਹੁਤ ਹੀ ਤੁੱਛ ਹੈ) ਹੇ
+ਨਿਰੰਕਾਰ ! ਤੂੰ ਸਦਾ ਅਟੱਲ ਰਹਿਣ ਵਾਲਾ ਹੈਂ, ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲਗਦਾ ਹੈ ਉਹੀ ਕੰਮ ਭਲਾ ਹੈ (ਭਾਵ, ਤੇਰੀ
+ਰਜ਼ਾ ਵਿਚ ਰਹਿਣਾ ਹੀ ਠੀਕ ਹੈ) ।੧੭।
+ਭਾਵ :- ਪ੍ਰਭੂ ਦੀ ਸਾਰੀ ਕੁਦਰਤਿ ਦਾ ਅੰਤ ਲੱਭਣਾ ਤਾਂ ਕਿਤੇ ਰਿਹਾ, ਜਗਤ ਵਿਚ ਜੇ ਤੁਸੀਂ ਸਿਰਫ਼ ਉਹਨਾਂ
+ਬੰਦਿਆਂ ਦੀ ਹੀ ਗਿਣਤੀ ਕਰਨ ਲੱਗੇ ਜੋ ਜਪ, ਤਪ, ਪੂਜਾ, ਧਾਰਮਿਕ ਪੁਸਤਕਾਂ ਦਾ ਪਾਠ, ਜੋਗ, ਸਮਾਧੀ
+ਆਦਿਕ ਕੰਮ ਕਰਦੇ ਚਲੇ ਆ ਰਹੇ ਹਨ, ਤਾਂ ਇਹ ਲੇਖਾ ਮੁੱਕਣ ਜੋਗਾ ਹੀ ਨਹੀਂ ਹੈ।੧੭।
+
+*(Source: Sahib Singh (Prof.), *Siri Guru Granth Sahib Darpan* — Japji Sahib section, typed edition by Avtar Singh Dhami. Gurmukhi text converted from the source PDF's legacy GurbaniAkhar font encoding to Unicode using `anvaad-js`, the same tool already used for `japji-gurmukhi-full.md`; spot-checked against the rendered PDF for accuracy.)*
 
 ### Sant Teja Singh (English translation & commentary)
 

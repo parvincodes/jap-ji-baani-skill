@@ -10,7 +10,43 @@
 
 ## Scholars available for this pauri
 
-Only Sant Teja Singh's translation is on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+Sant Teja Singh's translation and Prof. Sahib Singh's Darpan teeka are on file for this pauri (no Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh commentary is available here yet — don't imply otherwise).
+
+### Prof. Sahib Singh — Siri Guru Granth Sahib *Darpan* (Punjabi teeka)
+
+ਤੀਰਥਿ ਨਾਵਾ, ਜੇ ਤਿਸੁ ਭਾਵਾ, ਵਿਣੁ ਭਾਣੇ ਕਿ ਨਾਇ ਕਰੀ ॥
+ ਜੇਤੀ ਸਿਰਠਿ ਉਪਾਈ ਵੇਖਾ, ਵਿਣੁ ਕਰਮਾ ਕਿ ਮਿਲੈ ਲਈ ॥
+
+ਪਦ ਅਰਥ — ਤੀਰਥਿ-ਤੀਰਥ ਉੱਤੇ। ਨਾਵਾ-ਮੈਂ ਇਸ਼ਨਾਨ ਕਰਾਂ। ਤਿਸੁ-ਉਸ ਰੱਬ ਨੂੰ। ਭਾਵਾ-ਮੈਂ ਚੰਗਾ
+ਲੱਗਾਂ। ਵਿਣੁ ਭਾਣੇ-ਰੱਬ ਨੂੰ ਚੰਗਾ ਲੱਗਣ ਤੋਂ ਬਿਨਾ, ਜੇ ਰੱਬ ਦੀ ਨਜ਼ਰ ਵਿਚ ਕਬੂਲ ਨਾ ਹੋਇਆ। ਕਿ ਨਾਇ
+ਕਰੀ-ਨ੍ਹਾਇ ਕੇ ਮੈਂ ਕੀਹ ਕਰਾਂ ? ਜੇਤੀ-ਜਿਤਨੀ। ਸਿਰਠੀ-ਸ੍ਰਿਸ਼ਟੀ, ਦੁਨੀਆ। ਉਪਾਈ-ਪੈਦਾ ਕੀਤੀ
+ਹੋਈ। ਵੇਖਾ-ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਵਿਣੁ ਕਰਮਾ-ਪ੍ਰਭੂ ਦੀ ਮੇਹਰ ਤੋਂ ਬਿਨਾ; ਜਿਵੇਂ:-
+ ‘ਵਿਣੁ ਕਰਮਾ ਕਿਛੁ ਪਾਈਐ ਨਾਹੀ, ਜੇ ਬਹੁ ਤੇਰਾ ਧਾਵੈ’। (ਤਿਲੰਗੁ ਮਹਲਾ ੧
+
+ਕਿ ਮਿਲੈ-ਕੀਹ ਮਿਲਦਾ ਹੈ? ਕੁਝ ਨਹੀਂ ਮਿਲਦਾ। ਕਿ ਲਈ-ਕੀਹ ਕੋਈ ਲੈ ਸਕਦਾ ਹੈ ?
+ਅਰਥ:- ਮੈਂ ਤੀਰਥ ਉੱਤੇ ਜਾ ਕੇ ਤਦ ਇਸ਼ਨਾਨ ਕਰਾਂ ਜੇ ਇਉਂ ਕਰਨ ਨਾਲ ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਖ਼ੁਸ਼ ਕਰ
+ਸਕਾਂ, ਪਰ ਜੇ ਇਸ ਤਰ੍ਹਾਂ ਪਰਮਾਤਮਾ ਖ਼ੁਸ਼ ਨਹੀਂ ਹੁੰਦਾ, ਤਾਂ ਮੈਂ (ਤੀਰਥ ਉੱਤੇ) ਇਸ਼ਨਾਨ ਕਰਕੇ ਕੀਹ
+ ਖੱਟਾਂਗਾ ? ਅਕਾਲ ਪੁਰਖ ਦੀ ਪੈਦਾ ਕੀਤੀ ਹੋਈ ਜਿਤਨੀ ਭੀ ਦੁਨੀਆ ਮੈਂ ਵੇਖਦਾ ਹਾਂ, (ਇਸ ਵਿੱਚ)
+ਪਰਮਾਤਮਾ ਦੀ ਕਿਰਪਾ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਨੂੰ ਕੁਝ ਨਹੀਂ ਮਿਲਦਾ, ਕੋਈ ਕੁਝ ਨਹੀਂ ਲੈ ਸਕਦਾ।
+
+ ਮਤਿ ਵਿਚਿ ਰਤਨ ਜਵਾਹਰ ਮਾਣਿਕ,
+ ਜੇ ਇਕ ਗੁਰ ਕੀ ਸਿਖ ਸੁਣੀ ॥
+
+ਪਦ ਅਰਥ — ਮਤਿ ਵਿਚਿ-(ਮਨੁੱਖ ਦੀ) ਬੁੱਧ ਦੇ ਅੰਦਰ ਹੀ । ਮਾਣਿਕ-ਮੌਤੀ । ਇਕ ਸਿਖ-ਇਕ
+ਸਿੱਖਿਆ । ਸੁਣੀ-ਸੁਣੀਏ, ਸੁਣੀ ਜਾਏ ।
+ਅਰਥ :- ਜੇ ਸਤਿਗੁਰੂ ਦੀ ਇਕ ਸਿੱਖਿਆ ਸੁਣ ਲਈ ਜਾਏ, ਤਾਂ ਮਨੁੱਖ ਦੀ ਬੁੱਧ ਦੇ ਅੰਦਰ ਰਤਨ, ਜਵਾਹਰ
+ਤੇ ਮੌਤੀ (ਉਪਜ ਪੈਂਦੇ ਹਨ, ਭਾਵ, ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਪੈਦਾ ਹੋ ਜਾਂਦੇ ਹਨ) ।
+
+ ਗੁਰਾ, ਇਕ ਦੇਹਿ ਬੁਝਾਈ ॥
+ ਸਭਨਾ ਜੀਆ ਕਾ ਇਕੁ ਦਾਤਾ, ਸੋ ਮੈ ਵਿਸਰਿ ਨਾ ਜਾਈ ॥੬॥
+
+ਅਰਥ :- (ਤਾਂ ਤੇ) ਹੇ ਸਤਿਗੁਰੂ ! (ਮੇਰੀ ਤੇਰੇ ਅੱਗੇ ਇਹ ਅਰਦਾਸ ਹੈ ਕਿ) ਮੈਨੂੰ ਇਕ ਇਹ ਸਮਝ ਦੇਹ,
+ਜਿਸ ਕਰਕੇ ਮੈਨੂੰ ਉਹ ਅਕਾਲ ਪੁਰਖ ਨਾ ਵਿਸਰ ਜਾਏ, ਜੋ ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈ।੬।
+ਭਾਵ :- ਤੀਰਥ ਤੇ ਇਸ਼ਨਾਨ ਭੀ ਪ੍ਰਭੂ ਦੀ ਪ੍ਰਸੰਨਤਾ ਦੇ ਪਿਆਰ ਦੀ ਪ੍ਰਾਪਤੀ ਦਾ ਵਸੀਲਾ ਨਹੀਂ ਹੈ। ਜਿਸ
+ਉੱਤੇ ਮਿਹਰ ਹੋਵੇ ਉਹ ਗੁਰੂ ਦੇ ਰਾਹ ਤੇ ਤੁਰ ਕੇ ਪ੍ਰਭੂ ਦੀ ਯਾਦ ਵਿਚ ਜੁੜੇ । ਬੱਸ ! ਉਸੇ ਮਨੁੱਖ ਦੀ ਮਤ
+ਵਿਚ ਹੁਲਾਰਾ ਆਉਂਦਾ ਹੈ।੬।
+
+*(Source: Sahib Singh (Prof.), *Siri Guru Granth Sahib Darpan* — Japji Sahib section, typed edition by Avtar Singh Dhami. Gurmukhi text converted from the source PDF's legacy GurbaniAkhar font encoding to Unicode using `anvaad-js`, the same tool already used for `japji-gurmukhi-full.md`; spot-checked against the rendered PDF for accuracy.)*
 
 ### Sant Teja Singh (English translation & commentary)
 

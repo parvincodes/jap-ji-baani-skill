@@ -7,19 +7,23 @@ This file is the ground truth for what's available. Check it before answering. N
 
 ## Scholar interpretations (translation/teeka)
 
-| Pauri | Dr. Sant Singh Khalsa | Bhai Manmohan Singh | Prof. Sahib Singh | Jarnail Singh essay | Sant Teja Singh |
+| Pauri | Dr. Sant Singh Khalsa | Bhai Manmohan Singh | Prof. Sahib Singh (Darpan) | Jarnail Singh essay | Sant Teja Singh |
 |---|---|---|---|---|---|
-| Mool Mantar + opening | Not available | Not available | Not available | Available | Available |
-| 1 | Not available | Not available | Not available | Available | Available |
+| Mool Mantar + opening | Not available | Not available | Available | Available | Available |
+| 1 | Not available | Not available | Available | Available | Available |
 | 2 | Not available | Available | Available | Available (on Hukam) | Available |
-| 3 | Not available | Not available | Not available | Available | Available |
-| 4 | Not available | Not available | Not available | Available | Available |
-| 5–17 | Not available | Not available | Not available | Not available | Available |
+| 3 | Not available | Not available | Available | Available | Available |
+| 4 | Not available | Not available | Available | Available | Available |
+| 5–17 | Not available | Not available | Available | Not available | Available |
 | 18 | Available | Available | Available | Not available | Available |
-| 19–38 | Not available | Not available | Not available | Not available | Available |
-| Closing Salok | Not available | Not available | Not available | Not available | Available |
+| 19–38 | Not available | Not available | Available | Not available | Available |
+| Closing Salok | Not available | Not available | Available | Not available | Available |
 
-Sant Teja Singh's translation (`Japji Sahib`, The Kalgidhar Trust, Fourth Edition March 2001) covers the Mool Mantar, all 38 pauris, and the closing Salok — see `references/pauri-NN.md` (`pauri-01.md` through `pauri-38.md`), `references/mool-mantar.md`, and `references/salok-closing.md`. It is currently the only scholar available for most pauris; where Dr. Sant Singh Khalsa, Bhai Manmohan Singh, Prof. Sahib Singh, or Jarnail Singh's essay is also available (Mool Mantar, pauris 1–4, and pauri 18), each pauri file keeps their voices separate from Sant Teja Singh's, not blended.
+Two scholars now cover the entire bani (Mool Mantar, all 38 pauris, closing Salok) — see `references/pauri-NN.md` (`pauri-01.md` through `pauri-38.md`), `references/mool-mantar.md`, and `references/salok-closing.md`:
+- **Sant Teja Singh**'s English translation & commentary (`Japji Sahib`, The Kalgidhar Trust, Fourth Edition March 2001).
+- **Prof. Sahib Singh**'s Punjabi teeka from *Siri Guru Granth Sahib Darpan* — word meanings (ਪਦ ਅਰਥ), paraphrase (ਅਰਥ), and per-pauri gist (ਭਾਵ), extracted from the 79-page Japji Sahib section PDF and converted from its legacy GurbaniAkhar font encoding to Unicode via `anvaad-js`. For pauris 2 and 18, this Darpan text supersedes the earlier shorter Sahib Singh rendering that had been sourced via Srigranth.org (same scholar, same work — the Darpan is the fuller primary source).
+
+Where Dr. Sant Singh Khalsa, Bhai Manmohan Singh, or Jarnail Singh's essay is also available (pauris 2, 18, and — for Jarnail Singh — the Mool Mantar and pauris 1–4), each pauri file keeps every scholar's voice in its own section, never blended.
 
 Jarnail Singh's "Understanding Jap" essay series (Sikhspectrum.com, from the user's Dropbox `Awesome Translations by Jarnail Singh` folder) only covers the Mool Mantar and Pauris 1–4 — five essays in total. Their internal titles are inconsistently numbered (two of the five are both internally titled "Understanding Jap - 2") — each pauri file identifies the essay by which pauri its content actually discusses, not by its internal title, to avoid misattribution. Don't assume this essay series covers any pauri beyond 4 — the remaining "Awesome Translations" material has not been checked.
 
@@ -27,7 +31,7 @@ For any pauri not listed as "Available" for a given scholar: say plainly that th
 
 ## Still pending
 
-The Sahib Singh *Darpan* (79-page Gurmukhi teeka PDF) has not yet been converted into any `pauri-NN.md` file. Don't attribute a "Darpan" reading to any pauri until it's actually been added here.
+A handful of other per-pauri scholar PDFs turned up in the user's Dropbox `Jap Bani` folder (`Jap pauri 3/4/5/6/7/8-11/12-15/16/17/18/19/38.pdf`, `Japji - Romanized.pdf`, `Jap-Ji-Sahib-Khushwant-Singh.pdf`) and have not been checked or converted. Don't attribute a reading from any of these to a pauri until it's actually been added here.
 
 ## As this resource set grows
 
